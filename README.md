@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JeremySaville
+- Data Analyst/BI Developer
+- Interested in functional programming, analytics, visualising and communicating data
